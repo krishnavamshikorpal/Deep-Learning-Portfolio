@@ -7,4 +7,4 @@ portfolio of Deep Learning projects based on Artificial Neuaral Networks(ANN), C
 
 
 
-***Tools:*** Pandas, Seaborn, Matplotlib, Numpy, tensorflow, keras, CNN
+***Tools:*** Pandas, Seaborn, Matplotlib, Numpy, tensorflow, keras,ANN,CNN
